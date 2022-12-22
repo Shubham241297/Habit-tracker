@@ -17,10 +17,6 @@
 
 ## Installation
 
-##### Clone the latest Repository
-
-`git clone https://github.com/rahulsups/habit-tracker.git`
-
 ##### Into the project directory
 
 `cd habit-tracker`
